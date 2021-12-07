@@ -10,3 +10,8 @@
 - come back to the project folder and rename .env_example to .env
 - inside .env, input google client id and secrets accordingly
 - Now you can run the dev server. ("npm start" for client. "npm run dev" fro server)
+
+## Google OAuth Setup
+- Open google console
+- Enable Google Analytics API
+- Then create a new OAuth client
